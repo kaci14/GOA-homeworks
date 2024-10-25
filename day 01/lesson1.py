@@ -87,7 +87,3 @@ exitonclick()
 
 
 
-
-
-print("saba katitadze")
-print(14)
